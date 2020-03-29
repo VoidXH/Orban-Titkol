@@ -1,4 +1,8 @@
-# secret-hitler
+# Orbán Titkol
+
+## Köszönetnyilvánítás
+* gyurmagyerek - [a módosított játékért](https://steamcommunity.com/sharedfiles/filedetails/?id=1584360847)
+* Witcherkészek - az alapos tesztelésért és ötletekért
 
 [![Build Status](https://api.travis-ci.com/cozuya/secret-hitler.svg?branch=master)](https://travis-ci.com/cozuya/secret-hitler/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat)](https://github.com/cozuya/secret-hitler/issues)
@@ -15,7 +19,7 @@ This codebase is a "lobby style" implementation of this game - anyone can make a
 
 Current production/stable is found at [Secret Hitler IO](https://secrethitler.io).
 
-![Screenshot](https://cdn.discordapp.com/attachments/532418308977328139/538550232015962112/unknown.png)
+![Screenshot](Screenshot.png)
 
 Considering contributing to this project? Please read our brief guidelines found at
 [CONTRIBUTING](https://github.com/cozuya/secret-hitler/blob/master/.github/CONTRIBUTING.md). Contributors get a cool special playername color!
