@@ -28,7 +28,7 @@ html {
 #header-container {
   width: 100%;
   margin: 55px auto 0;
-  background: no-repeat center center url("../images/banner-new.png") #F2654B;
+  background: no-repeat center center url("../images/banner-new.png") black;
   background-size: contain;
   padding-top: 46%; }
   #header-container .online-count {

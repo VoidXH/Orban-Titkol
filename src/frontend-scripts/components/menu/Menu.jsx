@@ -196,14 +196,14 @@ class Menu extends React.Component {
 		}
 
 		if (userInfo && userInfo.gameSettings && userInfo.gameSettings.safeForWork) {
-			window.document.title = 'SH.io';
+			window.document.title = 'OT';
 		}
 
 		return (
 			<div>
 				<div className="menu-container" style={{ zIndex: 9999 }}>
 					<section className={classes}>
-						<a href="/">{userInfo && userInfo.gameSettings && userInfo.gameSettings.safeForWork ? 'SH.io' : 'SECRET HITLER.io'}</a>
+						<a href="/">{userInfo && userInfo.gameSettings && userInfo.gameSettings.safeForWork ? 'WITCHERKÉSZEK - OT' : 'WITCHERKÉSZEK - ORBÁN TITKOL'}</a>
 						<div className="center-menu-links">
 							<span>
 								<a style={{ textDecoration: 'underline' }} target="_blank" href="/tou">
